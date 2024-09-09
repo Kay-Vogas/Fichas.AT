@@ -27,7 +27,7 @@ h1,h2,h3,p,a,dd,dt{
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url(/img/Céu.jpg);
+    background-image: url(img/Céu.jpg);
     background-size: auto 120%;
     z-index: -1;
 }
